@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/Gauravleet/XSS.yaml/main/Gaurav.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/Gauravleet/XSS.yaml/main/Gaurav.yaml",
+            "name": "Foo"
+        }
+    ]
+}
